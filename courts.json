@@ -1,0 +1,74 @@
+{
+  "courts": [
+    {
+      "id": "son-gi-jeong",
+      "name": "손기정 테니스장",
+      "location": "서울 중구 손기정로 101",
+      "type": "실내,실외",
+      "link": "https://www.e-junggu.or.kr/fmcs/314",
+      "reservationSource": "중구시설관리공단 사이트"
+    },
+    {
+      "id": "mokdong",
+      "name": "목동 테니스장",
+      "location": "서울 양천구 안양천로 939",
+      "type": "",
+      "link": "",
+      "reservationSource": ""
+    },
+    {
+      "id": "maru-park",
+      "name": "마루공원 테니스장",
+      "location": "서울특별시 강남구 개포로 625(일원동)",
+      "type": "실외",
+      "link": "https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T100&dCode=T108",
+      "reservationSource": "서울시 공공예약 사이트"
+    },
+    {
+      "id": "sinki-park",
+      "name": "신기한 테니스장",
+      "location": "서울 양천구 안양천로 939",
+      "type": "실외",
+      "link": "https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T100&dCode=T108",
+      "reservationSource": "서울시 공공예약 사이트"
+    }
+  ],
+  "rules": [
+    {
+      "courtId": "son-gi-jeong",
+      "nameSuffix": "(거주구민)",
+      "scheduleType": "monthly",
+      "day": 21,
+      "hour": 9,
+      "minute": 0,
+      "note": "익월 예약",
+      "selectionMethod": "선착순",
+      "restriction": "거주구민 신청"
+    },
+    {
+      "courtId": "son-gi-jeong",
+      "scheduleType": "monthly",
+      "day": 27,
+      "hour": 9,
+      "minute": 0,
+      "note": "익월 예약",
+      "selectionMethod": "선착순"
+    },
+    {
+      "courtId": "maru-park",
+      "scheduleType": "daily",
+      "hour": 14,
+      "minute": 0,
+      "note": "D+14 예약",
+      "selectionMethod": "선착순"
+    },
+    {
+      "courtId": "sinki-park",
+      "scheduleType": "daily",
+      "hour": 16,
+      "minute": 0,
+      "note": "D+14 예약",
+      "selectionMethod": "선착순"
+    }
+  ]
+}
