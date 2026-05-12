@@ -1,0 +1,5 @@
+courtId,nameSuffix,scheduleType,day,dayOfWeek,hour,minute,note,selectionMethod,restriction
+son-gi-jeong,(거주구민),monthly,21,,9,0,익월 예약,선착순,거주구민 신청
+son-gi-jeong,,monthly,27,,9,0,익월 예약,선착순,
+maru-park,,daily,,,14,0,D+14 예약,선착순,
+sinki-park,,daily,,,16,0,D+14 예약,선착순,

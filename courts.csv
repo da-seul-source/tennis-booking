@@ -1,0 +1,5 @@
+id,name,region,district,location,type,link,reservationSource
+son-gi-jeong,손기정 테니스장,서울,중구,서울 중구 손기정로 101,"실내,실외",https://www.e-junggu.or.kr/fmcs/314,중구시설관리공단 사이트
+mokdong,목동 테니스장,서울,양천구,서울 양천구 안양천로 939,실외,,
+maru-park,마루공원 테니스장,서울,강남구,서울특별시 강남구 개포로 625(일원동),실외,https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T100&dCode=T108,서울시 공공예약 사이트
+sinki-park,신기한 테니스장,서울,양천구,서울 양천구 안양천로 939,실외,https://yeyak.seoul.go.kr/web/search/selectPageListDetailSearchImg.do?code=T100&dCode=T108,서울시 공공예약 사이트
